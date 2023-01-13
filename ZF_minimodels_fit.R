@@ -51,7 +51,7 @@ job_name_1 <- "ZebraFish2040_TG_all_Hill_more"
 # 
 # out_job_fit_ZebraFish2030_1$purge()
 
---------------------------------------------------------------------------------
+###-----------------------------------------------------------------------------
 ### Loads the fit results from the indicated folder
 
 result <- c()

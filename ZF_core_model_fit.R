@@ -53,7 +53,7 @@ jname <- "ZF_2040"
 # out_HBV$get()
 # out_HBV$purge()
 
---------------------------------------------------------------------------------
+###-----------------------------------------------------------------------------
  ### Loads the fit results from the indicated folder
   
 fitlist <- c()
@@ -140,7 +140,7 @@ pname <- "ZF_2040_Profiles"
 # 
 # profiles_HBV_Cluster$get()
 
---------------------------------------------------------------------------------
+###-----------------------------------------------------------------------------
 ### Loads the profile results from the indicated folder
 profilelist_cluster <- c()
 for (k in 0:6){
