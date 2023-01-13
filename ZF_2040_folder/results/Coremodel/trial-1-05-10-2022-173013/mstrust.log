@@ -1,0 +1,24 @@
+Parameter assignment information
+mstrust     : studyname, center, fits, cores, optmethod, samplefun, resultPath, stats, narrowing, output
+trust       : objfun, rinit, rmax, iterlim
+rnorm       : n, sd
+
+
+Multi start trust summary
+Outcome     : Occurrence
+Error       : 35
+Fatal       : 0 must be 0
+Unconverged : 2
+Converged   : 27
+           -----------
+Total       : 64[64]
+
+Multi start trust summary
+Outcome     : Occurrence
+Error       : 31
+Fatal       : 0 must be 0
+Unconverged : 1
+Converged   : 32
+           -----------
+Total       : 64[64]
+

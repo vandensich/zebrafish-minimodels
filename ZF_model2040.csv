@@ -1,0 +1,17 @@
+Description,Rate,pou5f3,sox19b,nanog,sox2,sox3,sox19a,pou5f3_prot,nanog_prot,sox19b_prot,pou5f3_sox19b,SOX
+r1,prodPou5f3*(1-MZNanog)*(nanog_prot+0.0001)^n_Pou*(1-MZPou)/(kmPou^n_Pou + (nanog_prot+0.0001)^n_Pou),1,,,,,,,,,,
+r2,degSox19b*sox19b*(1-MZsox19b)*(time+0.0001)^n_Sox19b/((tswitch_Sox19b*(1+Mznanog*tswitchbynanog))^n_Sox19b + (time+0.0001)^n_Sox19b),,-1,,,,,,,,,
+r3,prodNanog*(1-MZNanog)*(1-MZPou)*pou5f3_prot,,,1,,,,,,,,
+r4,degNanog*nanog*SOX^n_Nanog*(1-MZNanog)/((kmNanog/(1+Mzpou*tswitchbypou))^n_Nanog + SOX^n_Nanog),,,-1,,,,,,,,
+r5,prodSox2*(1-MZPou)*(SOX+sox2bypou*pou5f3_prot)^n_Sox2/(kmSox2^n_Sox2 + (SOX+sox2bypou*pou5f3_prot)^n_Sox2)*kmsox2repress^n_sox2repress/(kmsox2repress^n_sox2repress+nanog^n_sox2repress),,,,1,,,,,,,
+r6,prodSox3*(SOX+sox3bynanog*nanog_prot)^n_Sox3/(kmSox3^n_Sox3 + (SOX+sox3bynanog*nanog_prot)^n_Sox3)/(1+kinhsox3bypou*pou5f3_prot+kinhsox3bysox19b*sox19b_prot),,,,,1,,,,,,
+r7,prodSox19a*(SOX+sox19abynanog*nanog_prot)^n_Sox19a/(kmSox19a^n_Sox19a + (SOX+sox19abynanog*nanog_prot)^n_Sox19a)/(1+kinhsox19abypou*pou5f3_prot+kinhsox19abysox19b*sox19b_prot),,,,,,1,,,,,
+,prodpou5f3_prot*pou5f3*(1-MZPou),,,,,,,1,,,,
+,degpou*pou5f3_prot,,,,,,,-1,,,,
+,prodnanog_prot*nanog*(1-MZNanog),,,,,,,,1,,,
+,degnanog_prot*nanog_prot,,,,,,,,-1,,,
+,prodSOXby19b*sox19b*(1-MZsox19b),,,,,,,,,1,,
+,degsox19b_prot*sox19b_prot,,,,,,,,,-1,,
+,cf*pou5f3_prot*sox19b_prot,,,,,,,-1,,-1,1,
+,kSUMbysox2*sox2+kSUMbysox3*sox3+kSUMbysox19a*sox19a+kSUMbysox19b*sox19b,,,,,,,,,,,1
+,degSOX*SOX,,,,,,,,,,,-1

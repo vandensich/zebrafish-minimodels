@@ -1,0 +1,849 @@
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.191698
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.0174098
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.00066215, R2 = 3.06852e-11
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.848336, R2 = 1.81145e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.00106833, R2 = 3.50269e-11
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.00197707, R2 = 3.01194e-09
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.1405, R2 = 1.29488e-07
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.194628, R2 = 1.10975e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.00217632, R2 = 1.03583e-10
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 2.13085, R2 = 4.02256e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.0013954, R2 = 1.44989e-10
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.338018, R2 = 1.01951e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.0308801, R2 = 1.5228e-09
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.000782872, R2 = 1.49483e-10
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.00316342, R2 = 8.15505e-11
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.334483, R2 = 1.2232e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.000427022, R2 = 2.04075e-11
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 4.43444e-05, R2 = 4.50718e-11
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.00193091, R2 = 8.03636e-10
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.178218
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.0211515, R2 = 8.10888e-10
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.000158149, R2 = 1.47156e-11
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.0490646, R2 = 2.06035e-09
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 1.15715, R2 = 3.04797e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 2.30115, R2 = 1.66958e-07
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.995666
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.0494567, R2 = 3.40555e-09
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 2.79718, R2 = 3.28717e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.155229, R2 = 7.61505e-09
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.75557, R2 = 5.48189e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 2.74016, R2 = 3.74689e-08
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.176473
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 2.13687, R2 = 1.79274e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.07902, R2 = 3.25248e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.54616, R2 = 4.10695e-07
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 2.74212, R2 = 6.58369e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.700792, R2 = 1.3932e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.94198, R2 = 8.22303e-07
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.30689, R2 = 8.25667e-09
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 1.07576, R2 = 3.03586e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 2.11263, R2 = 1.25113e-08
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.922155
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.943007
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.00853054, R2 = 8.97184e-09
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.114652
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.0929186
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.788723, R2 = 8.23335e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 1.34808, R2 = 2.39217e-08
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.0613621
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.85447, R2 = 1.8193e-07
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.340761, R2 = 1.53734e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.256469, R2 = 2.11519e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 1.39319, R2 = 7.46312e-08
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.0173455
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.840866, R2 = 9.93438e-08
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.115657
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.938682
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.0262117, R2 = 9.93003e-10
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 1.17477, R2 = 5.63872e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 4.54427e-07, R2 = 2.75397e-14
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 1.03359e-05, R2 = 1.83474e-13
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.819353, R2 = 3.11064e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 1.41541, R2 = 6.6424e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 2.00974, R2 = 4.22245e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.394172, R2 = 2.38684e-09
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 9.60551e-06, R2 = 1.0136e-12
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.0001027, R2 = 2.35222e-12
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.138277, R2 = 1.28957e-09
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.123155, R2 = 8.84004e-09
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 0.0897513, R2 = 2.08799e-09
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 1.55119, R2 = 2.89935e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 2.70616, R2 = 2.69942e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 1.7571, R2 = 3.92324e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 2.48667, R2 = 3.69898e-08
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.46557
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 2.28653, R2 = 4.12637e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.00485, R2 = 9.17941e-08
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.0633913
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.04348, R2 = 2.31675e-07
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 3.97848
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 3.97372
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.39144
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.1513
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.395426
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 3.96159
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.0580218
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 3.96014
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.58245, R2 = 2.25561e-07
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.55613, R2 = 4.36306e-07
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.382235
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.382341
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.6956, R2 = 4.91075e-07
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.285238
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.285369
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.48294, R2 = 3.34459e-07
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.19461, R2 = 3.01629e-07
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.53909, R2 = 5.82545e-07
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.67453, R2 = 9.50227e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.61379, R2 = 2.65133e-07
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.26837
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.28585
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.9618, R2 = 1.30515e-07
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.473914
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.473396
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.69494, R2 = 5.89158e-07
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.55262, R2 = 5.30879e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.21823, R2 = 2.92244e-07
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.391323
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.366829
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.40008, R2 = 4.95335e-07
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.51719, R2 = 5.90852e-07
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.48336, R2 = 1.09673e-07
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.480146
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.480189
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.45391
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.460938
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.99992, R2 = 2.39628e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.99271, R2 = 2.19651e-08
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.409554
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.9723, R2 = 2.40388e-08
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.42095
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.97692, R2 = 2.44579e-08
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.496542
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.496528
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.492206
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.492192
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.487642
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.487622
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.498783
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.498712
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.499754
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.499881
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.499905
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.499932
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.499923
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.499999
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.499984
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.499977
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.499995
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.499974
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.499992
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.499978
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.499991
+ 
+DLSODES- At current T (=R1), MXSTEP (=I1) steps   
+      taken on this call before reaching TOUT     
+In above message, I1 = 5000
+ 
+In above message, R1 = 0.499998
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.97591, R2 = 1.99044e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.98481, R2 = 1.13183e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.98411, R2 = 1.11126e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.99015, R2 = 1.07278e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.9989, R2 = 2.90418e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.95208, R2 = 2.12183e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.87419, R2 = 1.40108e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.88163, R2 = 2.74803e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.92216, R2 = 2.6624e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.98003, R2 = 2.20542e-08
+ 
+DLSODES- At T (=R1) and step size H (=R2), the    
+      corrector convergence failed repeatedly     
+      or with ABS(H) = HMIN   
+In above message, R1 = 3.98315, R2 = 2.13805e-08
+ 
+============================= JOB FEEDBACK =============================
+Job ID: 82521
+Array Job ID: 82520_0
+Cluster: helix
+User/Group: fr_jh1254/fr_fr
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 64
+CPU Utilized: 4-17:23:07
+CPU Efficiency: 92.14% of 5-03:03:28 core-walltime
+Job Wall-clock time: 01:55:22
+Memory Utilized: 6.51 GB
+Memory Efficiency: 5.09% of 128.00 GB

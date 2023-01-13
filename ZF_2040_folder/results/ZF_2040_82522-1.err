@@ -1,0 +1,197 @@
+Error in library(cowplot) : there is no package called ‘cowplot’
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:data.table’:
+
+    between, first, last
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Loading required package: cOde
+
+Attaching package: ‘dMod’
+
+The following object is masked from ‘package:dplyr’:
+
+    combine
+
+The following objects are masked from ‘package:stats’:
+
+    profile, vcov
+
+Error in library(ggthemes) : there is no package called ‘ggthemes’
+
+Attaching package: ‘trust’
+
+The following object is masked from ‘package:dMod’:
+
+    trust
+
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
+✔ tibble  3.1.8     ✔ purrr   0.3.4
+✔ tidyr   1.2.0     ✔ forcats 0.5.2
+✔ readr   2.1.2     
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::between()   masks data.table::between()
+✖ dMod::combine()    masks dplyr::combine()
+✖ dplyr::filter()    masks stats::filter()
+✖ dplyr::first()     masks data.table::first()
+✖ dplyr::lag()       masks stats::lag()
+✖ dplyr::last()      masks data.table::last()
+✖ purrr::transpose() masks data.table::transpose()
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+In addition: Warning message:
+In out$value <- Inf * ifelse(minimize, 1, -1) : Coercing LHS to a list
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+In addition: Warning message:
+In out$value <- Inf * ifelse(minimize, 1, -1) : Coercing LHS to a list
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+In addition: Warning message:
+In out$value <- Inf * ifelse(minimize, 1, -1) : Coercing LHS to a list
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+In addition: Warning message:
+In out$value <- Inf * ifelse(minimize, 1, -1) : Coercing LHS to a list
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+In addition: Warning message:
+In out$value <- Inf * ifelse(minimize, 1, -1) : Coercing LHS to a list
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+In addition: Warning message:
+In out$value <- Inf * ifelse(minimize, 1, -1) : Coercing LHS to a list
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+In addition: Warning message:
+In out$value <- Inf * ifelse(minimize, 1, -1) : Coercing LHS to a list
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+In addition: Warning message:
+In out$value <- Inf * ifelse(minimize, 1, -1) : Coercing LHS to a list
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+In addition: Warning message:
+In out$value <- Inf * ifelse(minimize, 1, -1) : Coercing LHS to a list
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+In addition: Warning message:
+In out$value <- Inf * ifelse(minimize, 1, -1) : Coercing LHS to a list
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+In addition: Warning message:
+In out$value <- Inf * ifelse(minimize, 1, -1) : Coercing LHS to a list
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+In addition: Warning message:
+In out$value <- Inf * ifelse(minimize, 1, -1) : Coercing LHS to a list
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+In addition: Warning message:
+In out$value <- Inf * ifelse(minimize, 1, -1) : Coercing LHS to a list
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+In addition: Warning message:
+In out$value <- Inf * ifelse(minimize, 1, -1) : Coercing LHS to a list
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+In addition: Warning message:
+In out$value <- Inf * ifelse(minimize, 1, -1) : Coercing LHS to a list
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+In addition: Warning message:
+In out$value <- Inf * ifelse(minimize, 1, -1) : Coercing LHS to a list
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+In addition: Warning message:
+In out$value <- Inf * ifelse(minimize, 1, -1) : Coercing LHS to a list
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+In addition: Warning message:
+In out$value <- Inf * ifelse(minimize, 1, -1) : Coercing LHS to a list
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+In addition: Warning message:
+In out$value <- Inf * ifelse(minimize, 1, -1) : Coercing LHS to a list
+Error in res(data[[cn]], prediction[[cn]], err[[cn]]) : 
+  errmodel predicts NA for some observables with is.na(data$sigma).
+In addition: Warning message:
+In out$value <- Inf * ifelse(minimize, 1, -1) : Coercing LHS to a list
+Maximum number of iterations exceeded. Fit is not converged.
