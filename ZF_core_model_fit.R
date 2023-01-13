@@ -139,6 +139,8 @@ pname <- "ZF_2040_Profiles"
 # profiles_HBV_Cluster$check()
 # 
 # profiles_HBV_Cluster$get()
+#
+#profiles_HBV_Cluster$purge()
 
 ###-----------------------------------------------------------------------------
 ### Loads the profile results from the indicated folder
@@ -158,7 +160,6 @@ for (k in 0:6){
 profiles <- profilelist_cluster
 save(profiles, file = "profiles.RData")
 
-profiles_HBV_Cluster$purge()
 
 plotProfile(profiles, mode=="data")
 
