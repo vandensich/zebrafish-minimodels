@@ -1,18 +1,18 @@
 # zebrafish-minimodels
 # System requirements:
 - R version 3.6.3
-- R packages: 
- - cOde
- - dMod
- - deSolve
- - trust
- - parallel
- - ggplot2
- - ggthemes
- - stringr
- - dplyr
- - data.table
- - cowplot
+- R packages (current versions as of 13.01.2023) : 
+ * cOde
+ * dMod
+ * deSolve
+ * trust
+ * parallel
+ * ggplot2
+ * ggthemes
+ * stringr
+ * dplyr
+ * data.table
+ * cowplot
  
 To reproduce the analysis shown in the paper the following steps should be respected: 
 # To reproduce the analysis of the core model:
