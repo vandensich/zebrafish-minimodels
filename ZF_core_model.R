@@ -1,7 +1,7 @@
 ### 2023-01-13
 ### Script to produce the the zebrafish core model shown in 
 ### "Activator-blocker model of transcriptional regulation by pioneer-like
-### factors" submitted to Cell
+### factors" submitted to Nature Communications
 ### Code authors: 
 ### Jacques Hermes <jacques.hermes@fdm.uni-freiburg.de>
 ### Marcus Rosenblatt <marcus.rosenblatt@fdm.uni-freiburg.de>

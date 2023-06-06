@@ -2,7 +2,7 @@
 ### Script to produce the analysis of the zebrafish target specific
 ### mini-models shown in 
 ### "Activator-blocker model of transcriptional regulation by pioneer-like
-### factors" submitted to Cell
+### factors" submitted to Nature Communications
 ### Code authors: 
 ### Jacques Hermes <jacques.hermes@fdm.uni-freiburg.de>
 ### Marcus Rosenblatt <marcus.rosenblatt@fdm.uni-freiburg.de>
