@@ -1,4 +1,7 @@
 # zebrafish-minimodels
+# DOI
+[![DOI](https://zenodo.org/badge/580128898.svg)](https://zenodo.org/badge/latestdoi/580128898)
+
 # System requirements:
 - R version 3.6.3
 - R packages (current versions as of 13.01.2023) : 
